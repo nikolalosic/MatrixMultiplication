@@ -74,5 +74,5 @@ For larger sizes more than 16GB of RAM is needed.
 
 Please don't try large sizes if you are low on RAM, program will end up transfering RAM to disk and eventually it will crash your system by trying to consume more RAM than available.
 
-If you have some trouble with building or running plesae contact me on email: nikolalosic95@gmail.com
+If you have some trouble with building or running please contact me on email: nikolalosic95@gmail.com
 
