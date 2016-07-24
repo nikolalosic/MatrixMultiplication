@@ -37,9 +37,9 @@ You can also run program from a command line after building. Before running make
 </ul>
 You can find more information about usage by typing --help.
 
-<h3>Speed testing </h3>
+<h2>Speed testing </h2>
 
-<h4>Tested on:</h4>
+<h3>Tested on:</h3>
 
 <ul>
 <li><b>Laptop</b>: ASUS ROG G56JR</li>
@@ -54,7 +54,8 @@ You can find more information about usage by typing --help.
 
 <li><b>OS</b>: Windows 8.1 64bit</li>
 </ul>
-Below are the results of multiplication:
+
+<h3>Results:</h3>
 
 | Size           | Serial version     | Parallel version   | Serial / Parallel  |
 | :------------: |:------------------:|:------------------:|:------------------:|
